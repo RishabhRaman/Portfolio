@@ -92,19 +92,19 @@ export const contactEmail = 'rishabhraman9@gmail.com'
 
 export const education: Education[] = [
   {
-    institution: 'IES College of Technology',
+    institution: 'IES College of Technology, Bhopal, MP',
     degree: 'B.Tech in Computer Science',
     period: '2022 — 2026',
     details: 'CGPA: 7.63/10 · Coursework: DSA, DBMS, OS, CN',
   },
   {
-    institution: 'Harrow English School',
+    institution: 'Harrow English School, Darbhanga, Bihar',
     degree: 'Class XII (Science)',
     period: '2020 — 2021',
     details: 'Percentage: 77.4% · Subjects: Physics, Chemistry, Mathematics',
   },
   {
-    institution: 'Harrow English School',
+    institution: 'Harrow English School, Darbhanga, Bihar',
     degree: 'Class X ',
     period: '2018 — 2019',
     details: 'Percentage: 82.20%',
